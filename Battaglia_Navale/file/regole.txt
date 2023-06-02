@@ -1,0 +1,46 @@
+Benvenuto in questo gioco!
+Qui potrei giocare a Battaglia Navale contro il computer, il quale
+non fara' mosse casuali.
+
+Regole:
+
+INSERIMENTO DELLE NAVI
+Le navi sono:
+ - PORTAEREI, da 5 blocchi
+ - CORAZZATA, da 4 blocchi
+ - INCROCIATORE, da 3 blocchi
+ - CACCIATORPEDINIERE, da 2 blocchi
+ - SOTTOMARINO, da 3 blocchi
+
+Il numero di queste navi varia in base alla dimensone della 
+griglia che puo' essere scelta nella sezione "Impostazioni" essa
+varia da 8x8 a 16x16.
+Per posizionare una griglia bastera' portare il cursore sulla 
+griglia e se la sagoma della nave è verde essa sara' posizionabile, 
+se rossa non lo sarà. L'orientamento della nave viene cambiato da
+orizzontale a verticale e viceversa premendo il tasto destro. 
+Per bosizionare le navi restanti in maniera casuale basta premere
+il tasto "AUTO".
+Ti restera' poi solo da premere il tasto pronto dopo aver inserito 
+il tuo nome senza spazi.
+
+BATTAGLIA
+Nella griglia di sinistra potrai andare a colpire le navi del pc 
+il quale a sua volta cercherà di colpire le tue. Visualizzerai un
+'O' rosso se colpirai una nave, altrimenti una 'X'.
+Se affonderai una nave la vedrai colorata di rosso.
+Inoltre se colpisci una nave toccherà di nuovo a te, la stessa 
+regola vale per il pc.
+
+STORICO
+Alla fine di una partita lo storico viene aggiornato, andando 
+nella schermata apposita potrai vedere gli ultimi giocatori e 
+ordinarli in base alle partite giocate, alle vittorie, alla 
+percentuale di vittorie o in ordine alfabetico.
+
+CARICA
+Se in precedenza un giocatore ha salvato delle partite ti basterà 
+selezionare la partita che vuoi giocare ed essa riprenderà 
+esattamente dal punto in cui era stata salvata.
+
+Ivan Mampreso, aka mampress

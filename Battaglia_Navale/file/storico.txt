@@ -1,0 +1,4 @@
+prova 1 0 0
+mampress_ 1 1 100
+asa 1 1 100
+CIao 1 1 100

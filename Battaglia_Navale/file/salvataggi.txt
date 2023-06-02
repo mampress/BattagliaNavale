@@ -1,0 +1,63 @@
+caso 2023-05-15 15:10:53.950823200
+10
+7
+caso
+5 3 3 PORTAEREI true 5 true
+4 4 0 CORAZZATA true 4 false
+3 0 1 INCROCIATORE false 0 true
+2 6 3 CACCIATORPEDINIERE false 0 true
+2 7 6 CACCIATORPEDINIERE false 0 false
+3 5 7 SOTTOMARINO false 0 true
+3 1 6 SOTTOMARINO false 0 true
+0 3 3 3 0 0 0 0 0 -3 
+0 0 0 0 0 0 1 1 1 0 
+-3 0 -3 0 0 0 0 -3 0 0 
+0 0 0 -2 -2 -2 -2 -2 -3 -3 
+-2 0 0 0 0 0 0 -3 0 0 
+-2 0 0 0 0 0 0 1 1 1 
+-2 0 0 2 2 0 0 0 0 0 
+-2 0 0 0 0 0 2 0 -3 0 
+0 0 0 0 0 0 2 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 -3 0 0 0 0 -3 0 0 
+0 0 0 0 0 0 -3 -2 -2 -2 
+0 0 0 0 -3 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 -3 0 -3 0 0 0 0 0 0 
+0 -3 0 0 0 0 -3 0 0 0 
+-2 -2 -2 -2 -2 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+5 8 0 PORTAEREI true 5 true
+4 5 4 CORAZZATA false 0 true
+3 1 6 INCROCIATORE false 0 true
+2 3 3 CACCIATORPEDINIERE false 0 true
+2 1 1 CACCIATORPEDINIERE false 0 true
+3 3 7 SOTTOMARINO true 3 true
+3 4 0 SOTTOMARINO false 0 true
+0 0 0 0 0 0 0 0 0 0 
+0 2 2 0 0 0 3 3 3 0 
+0 0 -3 0 0 0 0 -3 0 0 
+0 0 0 2 2 0 -3 -2 -2 -2 
+1 1 1 0 -3 0 0 0 0 0 
+0 0 0 0 4 4 4 4 0 0 
+0 -3 0 -3 0 0 0 0 0 0 
+0 -3 0 0 0 0 -3 0 0 0 
+-2 -2 -2 -2 -2 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 -3 
+0 0 0 0 0 0 0 0 0 0 
+-3 0 -3 -3 -3 -3 -3 -3 0 0 
+-3 0 -3 -2 -2 -2 -2 -2 -3 -3 
+-2 -3 0 -3 -3 -3 -3 -3 0 0 
+-2 -3 0 0 0 0 0 0 0 0 
+-2 -3 0 0 0 0 0 0 0 0 
+-2 -3 0 0 0 0 0 0 -3 0 
+-3 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+-1 -1
+null
+fine partita
